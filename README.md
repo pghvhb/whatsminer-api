@@ -69,9 +69,9 @@ for token in tokens:
 
 
 ## API Documentation
-It's very difficult to find any information about the Whatsminer API. This PDF documentation is slightly out of date but is the best source found so far:
+This PDF documentation is the latest source found on microBT website:
 
-[WhatsminerAPIV1.3.8.pdf](docs/WhatsminerAPIV1.3.8.pdf)
+[WhatsminerAPI V2.0.4.pdf](docs/WhatsminerAPI V2.0.4.pdf)
 
 
 ## Package distribution notes
